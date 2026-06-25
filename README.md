@@ -4,7 +4,7 @@
 
 O **KeepLog** é uma plataforma web desenvolvida para a disciplina de **Tecnologias Web** da **Universidade Federal do Ceará (UFC) – Campus Sobral (2026)**. O sistema propõe a modernização do controle de insumos e ferramentas utilizados nos laboratórios acadêmicos, substituindo registros manuais ou planilhas descentralizadas por uma solução digital integrada. A nomenclatura do projeto baseia-se na fusão dos conceitos de **Keep** (guardar, reter e proteger o patrimônio) e **Log** (histórico imutável e rastreável de eventos).
 
-Veja a prévia do projeto em funcionamento: https://tecweb-wine.vercel.app/login
+Veja a prévia do projeto em funcionamento: https://tecweb-wine.vercel.app/
 
 ##  Problemática
 
